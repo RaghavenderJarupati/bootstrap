@@ -1,0 +1,43 @@
+
+.body {
+    
+    font-family: verdana;
+    font-size: 20px;
+    
+    }
+#hig {
+    background-color: khaki;
+    font-family: sans-serif;
+    font-size: 20px;
+    }
+#hig2{
+    background-color: khaki;
+    font-family: sans-serif;
+    font-size: 20px;
+    }
+#id1 {
+    color: darkblue;    
+    background-color: darkkhaki ;
+}
+#id2 {
+   color: darkblue;
+     background-color: darkkhaki;
+}
+#id9 {
+    color: darkblue;
+   background-color: darkkhaki ;
+}
+.afgh{
+ background-image: url("abstract.jpg");
+background-size:cover;
+    font-family: verdana;
+    font-size: 20px;
+    height: 120%;
+    width: 120%;
+   padding-left: 10%;
+    
+}
+#id12 {
+    
+  color: Black;
+}
